@@ -1,4 +1,5 @@
 ## v2ray-heroku
+### 原作者項目：https://github.com/DaoChen6/Heroku-v2ray/
 [![](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/QvbBlt/H-V2.git)
 
 ### heroku上部署v2ray
